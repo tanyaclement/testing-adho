@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "tanyaclement",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "tanyaclement",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-07-15T14:10:44.898Z",
-    "updated_at": "2025-07-15T14:10:44.898Z"
-  }
+    "updated_at": "2025-07-15T14:10:44.898Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "68d55f80-e489-402c-8bef-d4d49f32ae1e": {
+      "content": [],
+      "created_at": "2025-07-15T14:10:44.902Z",
+      "created_by": "tanyaclement",
+      "title": "Testing ADHO",
+      "updated_at": "2025-07-15T14:10:44.902Z",
+      "updated_by": "tanyaclement",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "68d55f80-e489-402c-8bef-d4d49f32ae1e"
+  ]
 }
